@@ -1,7 +1,7 @@
 # FAQ
 
 ### What is The Circle Project?
-The Circle Project is an effort to create a free, public domain archive of important sounds from around the world. A small team of audio professionals will circumnavigate the globe in search of our planet's rarest  and most defining sounds.
+The Circle Project is an effort to create a free, public domain archive of important sounds from around the world. A small team of audio professionals will circumnavigate the globe in search of our planet's rarest and most defining sounds.
 
 ### Why are you doing this?
 Sound is an essential part of our cultural and natural history. Our planet's acoustic environment is constantly in flux, and we feel it is vital that an effort be made to catalogue what can be heard today. Importantly, every sound we record during our journey will be freely published and made available for use by anyone, for any purpose. 
@@ -9,7 +9,7 @@ Sound is an essential part of our cultural and natural history. Our planet's aco
 ### How will you travel the globe?
 We plan to primarily travel by motorcycle, which will help us keep costs down and our environmental impact low. The realities of global transit will of course mandate that we maintain flexibility in our travel plans, and we fully expect to travel via other means when necessary.
 
-Whenever possible, we will camp outside in a tent or under the stars. In urban areas, we will sleep at hostels or in the homes of generous hosts. 
+Whenever possible, we will camp outside in a tent or under the stars. In urban areas, we will stay at hostels or in the homes of generous hosts. 
 
 ### Who are you?
 
@@ -28,24 +28,27 @@ See our budgetary breakdown here.
 TODO: Link to budget.
 
 ### How will you record audio on the road?
+There are numerous technical challenges associated with recording 
+
+### When will audio be distributed?
 
 ### What will your recording process look like?
-We will record in 24 bit, 48kbps [Broadcast WAV](https://en.wikipedia.org/wiki/Broadcast_Wave_Format). 
+We will record in 24 bit, 48k [Broadcast WAV](https://en.wikipedia.org/wiki/Broadcast_Wave_Format). 
 
 ### In what format will you deliver audio?
-We will distribute audio in 24 bit, 48kbps [Broadcast WAV](https://en.wikipedia.org/wiki/Broadcast_Wave_Format) and [FLAC](https://xiph.org/flac/).
+We will distribute audio in 24 bit, 48k [Broadcast WAV](https://en.wikipedia.org/wiki/Broadcast_Wave_Format) and [FLAC](https://xiph.org/flac/).
 
 ### How much audio will you record?
-This is surprisingly difficult to predict. Our goal is to record 1 hour of
+Our goal is to record one hour of audio every day. If we are funded for one year, then we will return with over *15 days* of audio. If we are funded for two years, we will return with a full month of continuous audio.
 
-### How will you distribute the audio?
+### How will you distribute the content?
 All samples will be distributed via BitTorrent. In addition, we are currently seeking sponsorship from a variety of content distributors 
 
 ### Will you edit or post-process the audio files?
 No. We would rather provide you with the orignal, raw audio and let you make edits as necessary. We will not add fades, normalize, compress, de-noise, or otherwise modify the original recordings. 
 
-### Why not 96k or 192k?
-File size, mostly. By recording at 48kbps, we will be able to effectively double our recording time. In addition, there are very few perceptual benefits to recording at 96k. See the following technical videos fore more information:
+### Why not record at 96k or 192k?
+File size, mostly. Recording at 96k or 192k would effectively halve or quarter our recording time. In addition, there are very few perceptual benefits to recording at 96k. See the following technical articles and videos for more information:
 
 [xiph.org: A Digital Media Primer for Geeks](https://www.xiph.org/video/vid1.shtml)
 
@@ -57,4 +60,4 @@ File size, mostly. By recording at 48kbps, we will be able to effectively double
 We are exploring various licensing models, but we are currently leaning towards Creative Commons CC0. The CC0 license has been designed as an internation Public Domain license. Read more at the [Creative Commons CC0] (https://creativecommons.org/about/cc0) information page. 
 
 ### What metadata will your audio files include?
-Every audio file will be tagged with the recording's date, UTC time, geographical coordinates, and descriptive tags. We are also interested in programitacally converting UTC time into local time tags, and automatically converting date/coordinate tuples into geopolitical information.
+Every audio file will be tagged with the recording's date, UTC time, geographical coordinates, and descriptive tags. We are also looking into programitacally converting UTC time into local time tags, and automatically converting date/coordinate tuples into geopolitical information like country and government.
