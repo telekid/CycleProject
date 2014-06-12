@@ -1,11 +1,5 @@
 # FAQ
 
-### What is The Circle Project?
-The Circle Project is an effort to create a free, public domain archive of important sounds from around the world. A small team of audio professionals will circumnavigate the globe in search of our planet's rarest and most defining sounds.
-
-### Why are you doing this?
-Sound is an essential part of our cultural and natural history. Our planet's acoustic environment is constantly in flux, and we feel it is vital that an effort be made to catalogue what can be heard today. Importantly, every sound we record during our journey will be freely published and made available for use by anyone, for any purpose. 
-
 ### How will you travel the globe?
 We plan to primarily travel by motorcycle, which will help us keep costs down and our environmental impact low. The realities of global transit will of course mandate that we maintain flexibility in our travel plans, and we fully expect to travel via other means when necessary.
 
@@ -21,7 +15,7 @@ Our goal is to capture sounds that are particular or unique to specific regions,
 Read more about our journey [here](). (TODO: Link to map page.)
 
 ### How long will your journey take?
-For every $50,000 we raise, we can spend approximately one year recording audio around the world. If we hit $100,000, we will travel the world for two years. If we hit $150,000, we will travel for three years. If we raise more than $150,000 and still have energy left after three years, we will continue to travel and record until our funds are exhausted.
+For every $60,000 we raise, we can spend approximately one year recording audio around the world. If we hit $120,000, we will travel the world for two years. If we hit $180,000, we will travel for three years. If we raise more than $180,000 and still have energy left after three years, we will continue to travel and record until our funds are exhausted.
 
 ### How will you be spending our money?
 See our budgetary breakdown here.
@@ -29,8 +23,11 @@ TODO: Link to budget.
 
 ### How will you record audio on the road?
 There are numerous technical challenges associated with recording 
+TODO: Finish this section.
 
 ### When will audio be distributed?
+Continent
+TODO: Finish this section.
 
 ### What will your recording process look like?
 We will record in 24 bit, 48k [Broadcast WAV](https://en.wikipedia.org/wiki/Broadcast_Wave_Format). 
